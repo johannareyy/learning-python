@@ -1,2 +1,2 @@
 # learning-python
-exercícios e anotações de python aplicado em cálculo numérico
+exercícios e anotações de python aplicados em cálculo numérico
