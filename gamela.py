@@ -7,11 +7,14 @@ import math
 
 ValorMin = 1.69 #h = r = 0.3
 ValorMax = -95.5 #h = 0
-ValorMed = 
+prec = 0
+erro = prec*10
+
+#ValorMed =
 
 erro = 1000000
 prec = 0.05 #tol
 
-while erro>prec
-    if (ValorMax + ValorMin)/2:
+#while erro>prec
+#    if (ValorMax + ValorMin)/2:
      
