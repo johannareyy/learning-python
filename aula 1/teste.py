@@ -1,7 +1,7 @@
 c = [1, 2, 3, 4, 'cu', 'fofinho']
 
 for i in range(6):
-    print(c[i])
+    print(i)
 
 for x in range(3):
     c.append(input("Digite um numero "))

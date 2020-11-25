@@ -16,8 +16,8 @@ def P2(x,a):
     return(a[0] + a[1]*x + a[2]*x*x)
 
 x = np.linspace(-1, 1, 100)     #(inicio_do_intervalo, final_do_intervalo, quantos_pontos_quero_no_intervalo)
-#print(x)
-#print(len(x))
+print(x)
+print(len(x))
 
 #print(P2(x, [0, 0, 1]))        #pra cada x calcula um y
 

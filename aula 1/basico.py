@@ -23,7 +23,7 @@ b = 20
 
 if a < b:
     print (a, "é menor que", b)
-elif a ==b:
+elif a == b:
     print (a, "é igual a", b)
 else:
     print (a, "é maior que", b)

@@ -1,4 +1,4 @@
-#condidere o seguinte produtório
+#considere o seguinte produtório
 #Z=pi i de 1 a n z1
 #onde z1=(-1)**2i+1/sqtr(i)
 import math
